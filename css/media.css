@@ -1,0 +1,138 @@
+@media (max-width:300px) {
+    .navbar img {
+        height: 24px;
+        width: 24px;
+    }
+
+    .navbar h1 {
+        position: absolute;
+        top: 38px;
+        font-size: 14px;
+    }
+
+    .container {
+        margin-top: 26px;
+    }
+
+    #msgInput {
+        width: 40%;
+        padding: 2px;
+        border-radius: 9px;
+    }
+
+    .btn {
+        border-radius: 15px;
+        height: 23px;
+        width: 21%;
+        margin-left: 4px;
+        font-size: 11px;
+    }
+}
+
+@media (min-width:300px) and (max-width:500px) {
+    .navbar img {
+        height: 28px;
+        width: 28px;
+        margin-top: 8px;
+    }
+
+    .navbar h1 {
+        position: absolute;
+        top: 38px;
+        font-size: 14px;
+    }
+
+    .container {
+        margin-top: 26px;
+        height: 75vh;
+
+    }
+
+    #msgInput {
+        width: 52%;
+        height: 25px;
+        padding: 2px;
+        border-radius: 19px;
+    }
+
+    .btn {
+        border-radius: 19px;
+        height: 30px;
+        width: 48px;
+        margin-left: 4px;
+        font-size: 11px;
+        padding: 2px;
+    }
+}
+
+@media (min-width:500px) and (max-width:800px) {
+    .navbar img {
+        height: 31px;
+        width: 31px;
+        margin-top: 8px;
+    }
+
+    .navbar h1 {
+        position: absolute;
+        top: 46px;
+        font-size: 18px;
+    }
+
+    .container {
+        margin-top: 32px;
+        height: 75vh;
+
+    }
+
+    #msgInput {
+        width: 52%;
+        height: 30px;
+        padding: 2px;
+        border-radius: 19px;
+    }
+
+    .btn {
+        border-radius: 19px;
+        height: 35px;
+        width: 8%;
+        margin-left: 4px;
+        font-size: 11px;
+        padding: 2px;
+    }
+}
+
+@media (min-width:800px) and (max-width:1000px) {
+    .navbar img {
+        height: 34px;
+        width: 34px;
+        margin-top: 8px;
+    }
+
+    .navbar h1 {
+        position: absolute;
+        top: 46px;
+        font-size: 18px;
+    }
+
+    .container {
+        margin-top: 32px;
+        height: 75vh;
+
+    }
+
+    #msgInput {
+        width: 52%;
+        height: 30px;
+        padding: 2px;
+        border-radius: 19px;
+    }
+
+    .btn {
+        border-radius: 19px;
+        height: 35px;
+        width: 8%;
+        margin-left: 4px;
+        font-size: 11px;
+        padding: 2px;
+    }
+}
